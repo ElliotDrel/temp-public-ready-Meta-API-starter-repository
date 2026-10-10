@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+node_modules/
+.DS_Store
+coverage/
+*.log
+*.pem
+*.key
+*.p12
+secrets/
+credentials/
